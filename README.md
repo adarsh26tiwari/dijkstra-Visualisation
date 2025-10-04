@@ -74,3 +74,17 @@ git clone https://github.com/adarsh26tiwari/dijkstra-Visualisation.git
 
 
 
+\## 📸 Screenshots
+
+
+
+!\[Grid](screenshots/grid.png)
+
+!\[Start \& End](screenshots/start\_end.png)
+
+!\[Walls](screenshots/walls.png)
+
+!\[Path](screenshots/path.png)
+
+
+
